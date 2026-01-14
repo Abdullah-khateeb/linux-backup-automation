@@ -6,10 +6,8 @@ The script creates compressed, timestamped backups of a specified directory, sup
 ## Project Structure
 
 ```
-backup_automation/
+linux_backup_automation/
 ├── backup.sh
-├── backups/
-├── logs/
 └── README.md
 ```
 
