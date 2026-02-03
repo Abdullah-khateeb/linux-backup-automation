@@ -22,3 +22,4 @@ echo "$(date +"%Y-%m-%d %H:%M:%S") - Backup created: $BACKUP_NAME" >> "$LOG_DIR/
 # Optional: Print success message
 echo "Backup completed: $BACKUP_DIR/$BACKUP_NAME"
 
+ 
